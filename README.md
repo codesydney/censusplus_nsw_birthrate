@@ -1,5 +1,5 @@
-# OPEND_NSWBirthRate
+# censusplus_nsw_birthrate
 
-This OPEND subproject deals with NSW birth rates from different NSW suburbs. Data was obtained from https://data.nsw.gov.au/
+This censusplus subproject deals with NSW birth rates from different NSW suburbs. Data was obtained from https://data.nsw.gov.au/
 
 This work is licensed under https://creativecommons.org/licenses/by/4.0/
